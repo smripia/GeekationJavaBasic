@@ -10,6 +10,7 @@ public class DateType {
 		System.out.println("20" + "24");
 		System.out.println(3.14);
 		System.out.println(true);
+		//
 
 	}
 
